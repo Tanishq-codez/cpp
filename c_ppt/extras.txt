@@ -1,0 +1,15 @@
+you can just use {} any where to limit the scope of a variable
+ex: 
+{auto int i = 7 ;
+{ auto int i = 6 ;//i=6}
+    // i=7}
+
+auto is default and stored in memory
+register is stored in cpu register(fast)
+static presist even after {} closes // initial value = 0
+global declared outside all fnc // no prefix // initial value = 0
+
+stack overflow - recursion depth exceeding the stack limit. 
+segmentation fault - Happens when accessing invalid memory locations or dereferencing null pointers.
+
+
