@@ -1,8 +1,8 @@
-//4 importants pillars of oops
+//4 important pillars of oops
 //enscapsulation , inheritance , polymorphism , abstractions
 
 //enscapsulation :wrapping up data members and fnc
-//can be used dor data heading
+//can be used for data hiding
 
 //data member == properties == state
 //function == methods == behaviours
@@ -15,12 +15,16 @@ class student{
     int height ;
 
 public:
+void setage(int a){
+    this->age = a ;
+}
 int getage(){
-    return this->age ; // points to age of object.eg-tanishq.getage()
+    return this->age ; // points to ag cvb nm,.e of object.eg-tanishq.getage()
 }
 };
 
 int main (){
     student tanishq ;
+    // tanishq.setage(19);
     cout<< tanishq.getage();
 }

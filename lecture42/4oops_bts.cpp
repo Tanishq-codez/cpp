@@ -2,7 +2,7 @@
 
 // object created --> constructer called
 
-// default constructer : ramesh.hero() 
+// default constructer : ramesh.hero() dikhta nahi lekin apne aap call hota hai ;
 
 //no return type or input parameter(default);
 
@@ -29,7 +29,7 @@ class hero {
 int main (){
 
 
-   hero ramlal(10) ;//same
+   hero ramlal(10) ;//same 
    cout<<"address of ramlal "<<& ramlal<<endl ;//same
    
    hero(10); //differ 

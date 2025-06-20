@@ -1,20 +1,20 @@
 //object oriented programming paradigm involve coding around an object
 //the real world object has its own properties and state
-// class is a user defined data type (somewhat like stuctures)
+// class (heap) is a user defined data type ( like stuctures(stack);donot suppourt inheritance;public by deafult )                                                                         
 
 //access modifier == scope of class
 //{public:class ke bahar+andar, private(default):sirf andar ,protected: ?child class}
 #include<iostream>
 //#include<Hero.cpp> - if u created a class in another file of the same name
 using namespace std ;
-
+    
 class Hero{
     //properties
     public:    // neeche waale saare public
     int health;
     char level;
     
-};  //****semicolon****
+};  //****caution:semicolon!!!****
 int main(){
       Hero ramesh ; // creation of an object ;
       ramesh.health=70;

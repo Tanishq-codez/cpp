@@ -1,10 +1,12 @@
-#include<iostream>
-using namespace std ;
-int main (){
-    int i = 5 ;
-    
-    int &j = i ; //j is reference variable 
+#include <iostream>
+using namespace std;
+int main()
+{
+    int i = 5;
 
+    int &j = i; // j is reference variable
+    // ref variable is another name to same memory block
     i++;
-    j++;// ref variable is another name to same memory 
- cout << i<<" "<< j ;}
+    j++;
+    cout << i << " " << j;
+}

@@ -6,7 +6,7 @@
 //for hw/difficult ques try first alwaysthen ask copilot for more optimised solution + other approches***
 //strlen() == <cstring>
 //swap     == <utility>
-
+//all .h headers in c are c_ headers in cpp
 #include <iostream>   
                             
 using namespace std ;

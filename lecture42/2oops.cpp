@@ -44,4 +44,5 @@ int main(){
 
 //greedy alignment- the compiler may align all members to the largest data type 
 // eg - in case of char ,int , double 8+8+8=24 bytes
+// ; this stategy is greedy alignment and the extra bytes are padding
 

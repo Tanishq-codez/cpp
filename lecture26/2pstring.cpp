@@ -11,4 +11,4 @@ int main(){
     cout<< p ;  // &temp address se printing shuru upto \0
 
 
-}
+} 
