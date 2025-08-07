@@ -1,0 +1,1 @@
+// previous ques with iterative approach insted of reccurrsive

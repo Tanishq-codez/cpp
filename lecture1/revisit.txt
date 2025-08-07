@@ -1,7 +1,0 @@
-do it cover all the cases and valid for all numbers ; cases when it can fail
-any suggestions
-is it the best approach - any suggestion
-dry run
-time complexity and space complexity
-look in lecture comments
-add _ on good questions

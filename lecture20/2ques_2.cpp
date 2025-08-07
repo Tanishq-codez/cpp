@@ -1,6 +1,6 @@
 // merge 2 sorted array without 3rd array
 // har i pe check kar ki j yahan isert ho sakta hai kya
-//if yes to karde phir bsdk (not good appeoavh)
+//if yes to karde phir bhai (not good approach)
 //instead start from end (merge sort algo)
 #include<iostream>      
 using namespace std ;

@@ -22,7 +22,7 @@ class human{ // base class /parent class/super class
 // if 'protected' then it will be protected except in case of private (private in that case)
 
 
-// protected is similar to private but also the child class can access it
+// protected is similar to private but can be assessed within the class itself also the child class can access it
 
 class animal{
     public:

@@ -1,0 +1,13 @@
+from lec 63 for solving question use copy to make approach as this will help is solving complex interveiw questions;
+add comments for better understanding ;
+
+
+learn debugging + try to write readable code ;
+dry run on revist ; 
+after every chunk ask for project from gpt
+do it cover all the cases and valid for all numbers ; cases when it can fail
+optimise optimise optimise 
+is it the best approach + any suggestions->try to find patterns ;
+time complexity and space complexity
+look in lecture comments
+add _ on good questions and ask gpt for some good (leetcode and gfg questions)
